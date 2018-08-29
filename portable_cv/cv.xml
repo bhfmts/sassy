@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Candidate xmlns:ns2="http://www.openapplications.org/oagis/9" xmlns="http://www.hr-xml.org/3">
+    <CandidatePerson>
+        <PersonName>
+            <ns2:GivenName>Bernardo</ns2:GivenName>
+            <FamilyName>Troncoso</FamilyName>
+        </PersonName>
+        <Communication>
+            <Address>
+                <ns2:CityName>Stockholm</ns2:CityName>
+                <CountryCode>SE</CountryCode>
+            </Address>
+        </Communication>
+        <Communication>
+            <ChannelCode>Email</ChannelCode>
+            <ns2:URI>tsunix@gmail.com</ns2:URI>
+        </Communication>
+        <Communication>
+            <ChannelCode>MobileTelephone</ChannelCode>
+            <ns2:DialNumber>+56982293612</ns2:DialNumber>
+        </Communication>
+        <NationalityCode>CL</NationalityCode>
+    </CandidatePerson>
+    <CandidateProfile>
+        <Attachment>
+            <ns2:FileName>Bernardo_Troncoso_Sepúlveda___Computer_Engineer.pdf</ns2:FileName>
+            <ns2:Description>resume</ns2:Description>
+        </Attachment>
+    </CandidateProfile>
+</Candidate>
+
